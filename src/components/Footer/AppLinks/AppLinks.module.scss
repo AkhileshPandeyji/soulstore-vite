@@ -1,0 +1,36 @@
+.Container {
+  margin: 20px auto;
+  text-align: center;
+}
+
+.Header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  column-gap: 4px;
+  margin-bottom: 10px;
+}
+
+.Title {
+  font-size: 16px;
+  font-weight: bolder;
+  color: #58595b;
+}
+
+.TitleIcon {
+  color: #58595b;
+  stroke-width: 1px;
+  margin-top: -4px;
+  width: 20px;
+}
+
+.Body {
+  display: flex;
+  column-gap: 10px;
+  justify-content: center;
+}
+
+.PlatformImg {
+  width: 126px;
+  height: 40px;
+}

@@ -1,0 +1,44 @@
+{
+  "copyrightText": "The Souled Store 2024-2025",
+  "appLinks": {
+    "titleText": "Experience the souled store app",
+    "titleIcon": "",
+    "platformImgs": [
+      {
+        "src": "https://tss-static-images.gumlet.io/icons/play-store.png",
+        "platform": "android",
+        "link": "https://play.google.com/store/apps/details?id=com.thesouledstore"
+      },
+      {
+        "src": "https://tss-static-images.gumlet.io/icons/app-store.png",
+        "platform": "ios",
+        "link": "https://apps.apple.com/in/app/thesouledstore/id1493897434"
+      }
+    ]
+  },
+  "followLinks": {
+    "titleText": "Follow Us:",
+    "socials": [
+      {
+        "name": "facebook",
+        "imgSrc": "",
+        "link": "https://www.facebook.com/SouledStore"
+      },
+      {
+        "name": "instagram",
+        "imgSrc": "",
+        "link": "https://www.instagram.com/TheSouledStore/"
+      },
+      {
+        "name": "snapchat",
+        "imgSrc": "",
+        "link": "https://www.snapchat.com/add/thesouledstore"
+      },
+      {
+        "name": "x",
+        "imgSrc": "",
+        "link": "https://twitter.com/TheSouledStore"
+      }
+    ]
+  }
+}
